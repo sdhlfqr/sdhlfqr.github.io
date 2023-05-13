@@ -7,4 +7,4 @@ Contributions are welcome and appreciated.
 
 ## License
 
-Project is licensed under the [MIT Licence](./LICENSE).
+Repository is licensed under the [MIT Licence](./LICENSE).
